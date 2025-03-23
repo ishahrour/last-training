@@ -1,0 +1,1 @@
+Je vais tester la possibilité de communiquer le changement dans le GiT vers le local
